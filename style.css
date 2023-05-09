@@ -1,0 +1,33 @@
+body{
+    background-color: #CCCCCC;
+}
+
+.container{
+    width: 600px;
+    margin: 0 auto;
+    background-image: linear-gradient(to bottom, #210D25, #641F6F);
+    padding: 20px;
+    color: white;
+}
+
+.header-title{
+    color: #FECD23;
+    text-transform: uppercase;
+}
+
+main{
+    background-image: linear-gradient(to top, #210D25, #641F6F);
+    padding: 20px;
+    
+}
+
+.sectorvoting{
+    margin-top: 30px;
+}
+
+.sectorvoting section{
+    background-image: linear-gradient(to bottom, #4062EF, #70C7FE);
+    border: 10px solid #2638DB;
+    padding: 16px;
+}
+

@@ -1,0 +1,16 @@
+task 5
+
+.sectorvoting{
+    margin-top: 30px;
+    display: flex;
+    
+}
+
+.sectorvoting section{
+    background-image: linear-gradient(to bottom, #4062EF, #70C7FE);
+    border: 10px solid #2638DB;
+    padding: 16px;
+    width: 30%;
+    box-sizing: border-box;
+    margin-right: 5%;
+}
