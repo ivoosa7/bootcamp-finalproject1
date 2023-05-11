@@ -59,11 +59,50 @@ input:focus{
 
 .sectorvoting{
     margin-top: 30px;
+    display: flex; 
 }
 
 .sectorvoting section{
     background-image: linear-gradient(to bottom, #4062EF, #70C7FE);
     border: 10px solid #2638DB;
     padding: 16px;
+    width: 30%;
+    box-sizing: border-box;
+    margin-right: 5%;
+    border-radius: 5px;
 }
+
+.titleoption{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 16px;
+}
+
+.image{
+    width: 115px;
+    margin: 0 auto;
+}    
+
+.button{
+    padding: 12px 16px 0 16px;
+}
+
+button{
+    width: 100%;
+    padding: 12px 24px;
+    font-size: 14px;
+    color: white;
+    background-color: #210D25;
+    border: 0;
+    border-radius: 5px;
+}
+
+button:hover{
+    background-color: #3C1443;
+    cursor: pointer;
+    transition: 1s;
+}
+
+
+
 
