@@ -16,6 +16,7 @@ body{
     text-transform: uppercase;
     text-align: center;
     font-weight: 500px;
+    margin: 0;
 }
 
 header{
@@ -28,8 +29,32 @@ p{
 
 main{
     background-image: linear-gradient(to top, #210D25, #641F6F);
-    padding: 20px;
+    padding: 16px;
     
+}
+
+.main-title{
+    font-size: 22px;
+    font-weight: 300;
+    text-align: center;
+}
+
+.input-form{
+    text-align: center;
+    padding: 16px;
+}
+
+input{
+    padding: 6px;
+    margin-bottom: 16px;
+    width: 70%; 
+    border-radius: 5px; 
+    border: 0;  
+}
+
+input:focus{
+    outline: none;
+    box-shadow: 0 0 10px #210D25;
 }
 
 .sectorvoting{
