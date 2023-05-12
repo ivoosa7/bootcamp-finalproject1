@@ -7,7 +7,7 @@ body{
     width: 600px;
     margin: 0 auto;
     background-image: linear-gradient(to bottom, #210D25, #641F6F);
-    padding: 20px;
+    padding: 1.25rem;
     color: white;
     border-radius: 10px;
 }
@@ -18,11 +18,11 @@ body{
     text-align: center;
     font-weight: 500px;
     margin: 0;
-    padding-bottom: 16px;
+    padding-bottom: 1rem;
 }
 
 header{
-    margin-bottom: 48px;
+    margin-bottom: 3rem;
 }
 
 p{
@@ -31,26 +31,26 @@ p{
 
 main{
     background-image: linear-gradient(to top, #210D25, #641F6F);
-    padding: 16px;
+    padding: 1rem;
     border-radius: 10px;
 }
 
 .main-title{
-    font-size: 22px;
+    font-size: 1.37rem;
     font-weight: 300;
     text-align: center;
 }
 
 .input-form{
     text-align: center;
-    padding: 16px;
+    padding: 1rem;
 }
 
 input{
-    padding: 6px;
-    margin-bottom: 26px;
+    padding: 0.37rem;
+    margin-bottom: 1.6rem;
     width: 70%; 
-    border-radius: 5px; 
+    border-radius: 0.3rem; 
     border: 0;  
 }
 
@@ -60,14 +60,14 @@ input:focus{
 }
 
 .sectorvoting{
-    margin-top: 20px;
+    margin-top: 1.25rem;
     display: flex; 
 }
 
 .sectorvoting section{
     background-image: linear-gradient(to bottom, #4062EF, #70C7FE);
     border: 10px solid #2638DB;
-    padding: 16px;
+    padding: 1rem;
     width: 30%;
     box-sizing: border-box;
     margin-right: 5%;
@@ -76,23 +76,23 @@ input:focus{
 
 .titleoption{
     text-align: center;
-    font-size: 20px;
-    margin-top: 16px;
+    font-size: 1.25rem;
+    margin-top: 1rem;
 }
 
 .image{
-    width: 115px;
+    width: 7.18rem;
     margin: 0 auto;
 }    
 
 .button{
-    padding: 12px 16px 0 16px;
+    padding: 0.75rem 1rem 0 1rem;
 }
 
 button{
     width: 100%;
-    padding: 12px 24px;
-    font-size: 14px;
+    padding: 0.75rem 1.5rem;
+    font-size: 0.87rem;
     color: white;
     background-color: #210D25;
     border: 0;
@@ -107,10 +107,10 @@ button:hover{
 
 footer{
     color: white;
-    font-size: 12px;
+    font-size: 0.75rem;
     font-weight: 600px;
     text-align: center;
-    margin-top: 10px;
+    margin-top: 0.62rem;
 }
 
 
