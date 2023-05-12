@@ -9,6 +9,7 @@ body{
     background-image: linear-gradient(to bottom, #210D25, #641F6F);
     padding: 20px;
     color: white;
+    border-radius: 10px;
 }
 
 .header-title{
@@ -17,10 +18,11 @@ body{
     text-align: center;
     font-weight: 500px;
     margin: 0;
+    padding-bottom: 16px;
 }
 
 header{
-    margin-bottom: 32px;
+    margin-bottom: 48px;
 }
 
 p{
@@ -30,7 +32,7 @@ p{
 main{
     background-image: linear-gradient(to top, #210D25, #641F6F);
     padding: 16px;
-    
+    border-radius: 10px;
 }
 
 .main-title{
@@ -46,7 +48,7 @@ main{
 
 input{
     padding: 6px;
-    margin-bottom: 16px;
+    margin-bottom: 26px;
     width: 70%; 
     border-radius: 5px; 
     border: 0;  
@@ -58,7 +60,7 @@ input:focus{
 }
 
 .sectorvoting{
-    margin-top: 30px;
+    margin-top: 20px;
     display: flex; 
 }
 
@@ -101,6 +103,14 @@ button:hover{
     background-color: #3C1443;
     cursor: pointer;
     transition: 1s;
+}
+
+footer{
+    color: white;
+    font-size: 12px;
+    font-weight: 600px;
+    text-align: center;
+    margin-top: 10px;
 }
 
 
