@@ -81,7 +81,7 @@ input:focus{
 }
 
 .image{
-    width: 7.81rem;
+    width: 7.1rem;
     margin: 0 auto;
 }    
 
@@ -92,7 +92,7 @@ input:focus{
 button{
     width: 100%;
     padding: 0.75rem 1.5rem;
-    font-size: 0.87rem;
+    font-size: 0.9rem;
     color: white;
     background-color: #210D25;
     border: 0;
@@ -131,8 +131,14 @@ footer{
         margin-bottom: 16px;
     }
 
+    .button{
+        text-align: center;
+    }
+
     button{
+        width: 95%;
         font-size: 16px;
+        text-align: center;
     }
 
     img.image{
